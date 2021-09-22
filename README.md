@@ -61,4 +61,4 @@ References:<br/>
 [2] X. Lin, H. E. Perez, S. Mohan, J. B. Siegel, A. G. Stefanopoulou,Y. Ding, and M. P. Castanier, “A lumped-parameter electro-thermal model for cylindrical batteries,”Journal of PowerSources, vol. 257, pp. 1–11, Jul. 2014.<br/>
 [3] G. L. Plett, Battery Management Systems, Volume 2: Equivalent-Circuit Methods. Artech House, 2015.<br/>
 [4] M. A. Xavier and M. S. Trimboli, “Lithium-ion battery cell-level control using constrained model predictive control and equivalent circuit models,” Journal of Power Sources, vol. 285, pp. 374–384, 2015. <br/>
-
+ 
